@@ -1,4 +1,4 @@
-# niub.official
+# niub.finance
 
 ## Project setup
 ```
