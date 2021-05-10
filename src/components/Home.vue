@@ -9,7 +9,7 @@
 
         <h3>Essential Links</h3>
         <ul>
-            <li><a href="https://vuejs.org" target="_blank" rel="noopener">GitHub</a></li>
+            <li><a href="https://github.com/Niubfinance" target="_blank" rel="noopener">GitHub</a></li>
             <li><a href="https://twitter.com/NiubFinance" target="_blank" rel="noopener">Twitter</a></li>
             <li><a href="https://t.me/joinchat/Cfhe_kjXFsA2YjNh" target="_blank" rel="noopener">Telegram</a></li>
 <!--            <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Discord</a></li>-->
